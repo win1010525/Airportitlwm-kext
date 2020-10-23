@@ -10,8 +10,7 @@ Open issues here: https://github.com/OpenIntelWireless/itlwm/issues/new/choose
   Put it into Clover\kexts\Other\   
 ![image](https://github.com/win1010525/Airportitlwm-kext/blob/main/images/Clover.png)   
   OpenCore:
-  (1):Put it into OC\Kexts\   
-![image](https://github.com/win1010525/Airportitlwm-kext/blob/main/images/OC-1.png)    
+  Just use zxystd's kext. 
 2.This kext can't load if your OpenCore's SecureBootModel is Disabled. You should set it to Default.  
 ![image](https://github.com/win1010525/Airportitlwm-kext/blob/main/images/SecureBootModel.png)   
 3.Handoff  
