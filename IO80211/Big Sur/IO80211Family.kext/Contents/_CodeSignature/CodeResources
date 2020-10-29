@@ -10,7 +10,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			11qGm0qp6y2RX4lLjMVilt1/5fY=
+			amEHllCKw1w6XI4XrYI5h/y7Dj8=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.IO80211Family_kasan" and anchor apple</string>
