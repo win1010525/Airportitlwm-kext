@@ -1,3 +1,6 @@
+# Notice  
+Sorry, because of academic problems, I may not update it in a month. Please use zxystd driver first, airdrop development is about to be completed.  
+
 # Airportitlwm-kext
 An IO80211 added version of Airportitlwm.  
 This is same as zxystd's Airportitlwm  
