@@ -10,7 +10,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RzvOExZ5aDLNHcwtLVyQEfFB+3M=
+			xHIVfdJBlNJLydy9FdsZc7SmeH4=
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.AirPortBrcmNIC_kasan" and anchor apple</string>

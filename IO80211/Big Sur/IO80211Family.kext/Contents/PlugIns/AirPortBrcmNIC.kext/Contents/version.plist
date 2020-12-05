@@ -5,7 +5,7 @@
 	<key>BuildAliasOf</key>
 	<string>AirPortDriverBrcmNIC</string>
 	<key>BuildVersion</key>
-	<string>802</string>
+	<string>66</string>
 	<key>CFBundleShortVersionString</key>
 	<string>14.0</string>
 	<key>CFBundleVersion</key>
@@ -13,6 +13,6 @@
 	<key>ProjectName</key>
 	<string>AirPortDriverBrcmNIC</string>
 	<key>SourceVersion</key>
-	<string>1669000000000000</string>
+	<string>1675001000000000</string>
 </dict>
 </plist>
