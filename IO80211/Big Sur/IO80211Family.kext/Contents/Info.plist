@@ -35,11 +35,11 @@
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>11.1</string>
+	<string>11.2</string>
 	<key>DTSDKBuild</key>
-	<string>20C5061a</string>
+	<string>20D5042a</string>
 	<key>DTSDKName</key>
-	<string>macosx11.1internal</string>
+	<string>macosx11.2internal</string>
 	<key>DTXcode</key>
 	<string>1200</string>
 	<key>DTXcodeBuild</key>
@@ -47,7 +47,7 @@
 	<key>IOKitPersonalities</key>
 	<dict/>
 	<key>LSMinimumSystemVersion</key>
-	<string>11.1</string>
+	<string>11.2</string>
 	<key>OSBundleCompatibleVersion</key>
 	<string>1.0</string>
 	<key>OSBundleLibraries</key>
