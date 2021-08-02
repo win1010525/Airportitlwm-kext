@@ -28,4 +28,4 @@ It works, but very instable. If it doesnt work, try to reset keychain or login A
 Written by win1010525.
 Copyright 2020-2021 <a href="https://github.com/win1010525">win1010525</a> All rights reserved.  
 
-# 请部分中国人尊重一下版权！别人写的东西你复制过去叫原创好意思吗？
+# 请部分中国网友（尤其是CSDN）尊重一下版权！别人写的东西你复制过去叫原创好意思吗？
