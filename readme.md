@@ -23,4 +23,9 @@ Try to log out your Mac's Apple ID and sign in again.
 4.Airdrop  
 Airdrop doesn't work right now, you can only find the device with the same Apple ID. But you still can't send files.  
 5.Apple Watch Unlock  
-It works, but very instable. If it doesnt work, try to reset keychain or login Apple ID again.  
+It works, but very instable. If it doesnt work, try to reset keychain or login Apple ID again.
+
+Written by win1010525.
+Copyright 2020-2021 <a href="https://github.com/win1010525">win1010525</a> All rights reserved.  
+
+# 请部分中国人尊重一下版权！别人写的东西你复制过去叫原创好意思吗？
